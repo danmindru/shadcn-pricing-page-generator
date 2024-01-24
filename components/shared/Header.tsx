@@ -16,9 +16,9 @@ const Header = () => {
             <Image
               src="/static/images/logo.png"
               alt="Pricing Page Generator logo"
-              height={54}
-              width={54}
-              className="group-hover:animate-wiggle "
+              height={74}
+              width={74}
+              className="group-hover:animate-wiggle relative top-0.5"
             />
 
             <div className="hidden text-2xl font-semibold sm:flex h-full">
@@ -38,7 +38,20 @@ const Header = () => {
             <span>{link.title}</span>
           </ActiveLink>
         ))}
-        <SearchButton />
+
+        <a
+          key="download"
+          href="https://shipixen.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="nav-link hidden sm:block"
+        >
+          <span className="bg-clip-text bg-gradient-to-r text-transparent from-fuchsia-500 to-cyan-600 dark:from-fuchsia-500 dark:to-cyan-500">
+            Beautiful Next.js starters
+          </span>
+        </a>
+
+        {/* <SearchButton /> */}
         <ThemeSwitch />
         <MobileNav />
       </div>
