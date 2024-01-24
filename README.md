@@ -8,15 +8,15 @@ Pricing Page Generator
 #### Pricing Page Generator.
 The easiest way to get the code for a React/Next.js pricing page. Pick between a Shadcn pricing page Radix UI and/or Tailwind CSS.
 
-
-
-
 Want to run this yourself locally? Check out the docs.
 - [Installation](#installation)
 - [Development](#development)
 - [Build](#build)
 
 > Looking for code samples? Check out [the demos here.](https://github.com/danmindru/shadcn-pricing-page-generator/tree/main/components/pricing). It's easy to generate code for your own pricing page with [the pricing page generator web app](https://shipixen.com/shadcn-pricing-page-generator).
+
+
+<hr/>
 
 <div align="center">
 
