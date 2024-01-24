@@ -8,9 +8,10 @@ Pricing Page Generator
 #### Pricing Page Generator.
 The easiest way to get the code for a React/Next.js pricing page. Pick between a Shadcn pricing page Radix UI and/or Tailwind CSS.
 
-> This website was generated with [shipixen.com](https://shipixen.com).
-> For more documentation, visit [the shipixen Docs](https://shipixen.com/boilerplate-documentation)
 
+
+
+Want to run this yourself locally? Check out the docs.
 - [Installation](#installation)
 - [Development](#development)
 - [Build](#build)
@@ -56,3 +57,8 @@ To build the site for production, run the following command:
 ```bash
 npm run build
 ```
+
+------
+
+> This website was generated with [shipixen.com](https://shipixen.com).
+> For more documentation, visit [the shipixen Docs](https://shipixen.com/boilerplate-documentation)
