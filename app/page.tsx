@@ -71,8 +71,10 @@ export default function Home() {
               'w-full flex justify-center items-center flex-col bg-secondary-100/20 dark:bg-secondary-900/10 py-12',
             )}
           >
-            <section className={cn('wide-container')}>
-              <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading">
+            <section
+              className={cn('wide-container flex flex-col items-center')}
+            >
+              <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading lg:max-w-2xl w-full">
                 1-tier pricing page example
               </h2>
               <p className="mt-6 md:text-xl lg:max-w-2xl">
@@ -85,8 +87,8 @@ export default function Home() {
           </section>
         </section>
 
-        <section className={cn('wide-container')}>
-          <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading">
+        <section className={cn('wide-container flex flex-col items-center')}>
+          <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading lg:max-w-2xl w-full">
             2-tier pricing page example
           </h2>
           <p className="mt-6 md:text-xl lg:max-w-2xl">
@@ -107,8 +109,10 @@ export default function Home() {
               'w-full flex justify-center items-center flex-col bg-secondary-100/20 dark:bg-secondary-900/10 py-12',
             )}
           >
-            <section className={cn('wide-container')}>
-              <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading">
+            <section
+              className={cn('wide-container flex flex-col items-center')}
+            >
+              <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading lg:max-w-2xl w-full">
                 3-tier pricing page example
               </h2>
               <p className="mt-6 md:text-xl lg:max-w-2xl">
@@ -133,8 +137,10 @@ export default function Home() {
               'w-full flex justify-center items-center flex-col bg-secondary-100/20 dark:bg-secondary-900/10 py-12',
             )}
           >
-            <section className={cn('wide-container')}>
-              <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading">
+            <section
+              className={cn('wide-container flex flex-col items-center')}
+            >
+              <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading lg:max-w-2xl w-full">
                 All the bells and whistles
               </h2>
               <p className="mt-6 md:text-xl lg:max-w-2xl">
