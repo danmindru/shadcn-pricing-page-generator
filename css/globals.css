@@ -184,6 +184,8 @@
   }
 
   .dark .fancy-overlay::after {
+    --maximum-opacity: 0.03;
+
     background-image: linear-gradient(
       54deg,
       var(--primary-dark) var(--fancy-y) var(--fancy-y),
