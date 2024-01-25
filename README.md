@@ -87,5 +87,4 @@ Are there any examples available?
 
 ------
 
-> This website was generated with [shipixen.com](https://shipixen.com).
-> For more documentation, visit [the shipixen Docs](https://shipixen.com/boilerplate-documentation)
+✨ This website was generated with [shipixen.com](https://shipixen.com). For more documentation, visit [the shipixen Docs](https://shipixen.com/boilerplate-documentation)
