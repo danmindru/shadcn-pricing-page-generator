@@ -77,7 +77,7 @@ export default function Home() {
               <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading lg:max-w-2xl w-full">
                 1-tier pricing page example
               </h2>
-              <p className="mt-6 md:text-xl lg:max-w-2xl">
+              <p className="mt-6 md:text-xl lg:max-w-2xl w-full">
                 Sometimes you start simple and expand later. <br />
                 When you only have one pricing tier, we got you covered.
               </p>
@@ -91,7 +91,7 @@ export default function Home() {
           <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading lg:max-w-2xl w-full">
             2-tier pricing page example
           </h2>
-          <p className="mt-6 md:text-xl lg:max-w-2xl">
+          <p className="mt-6 md:text-xl lg:max-w-2xl w-full">
             Two tiers change into a more traditional layout. Here you can also
             customize the looks of each tier and highlight one or the other.
           </p>
@@ -115,7 +115,7 @@ export default function Home() {
               <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading lg:max-w-2xl w-full">
                 3-tier pricing page example
               </h2>
-              <p className="mt-6 md:text-xl lg:max-w-2xl">
+              <p className="mt-6 md:text-xl lg:max-w-2xl w-full">
                 Lastly, pick the 3-tier layout if you have a lot to offer.{' '}
                 <br />
                 Similarly to the 2-tier layout, you can customize the looks of
@@ -143,7 +143,7 @@ export default function Home() {
               <h2 className="text-4xl font-semibold leading-tight max-w-xs sm:max-w-none md:text-5xl fancyHeading lg:max-w-2xl w-full">
                 All the bells and whistles
               </h2>
-              <p className="mt-6 md:text-xl lg:max-w-2xl">
+              <p className="mt-6 md:text-xl lg:max-w-2xl w-full">
                 The pricing page generator supports discount text, discount
                 prices, highlighted tiers, custom looks, custom frequencies and
                 more. Here's an example with all turned on.
