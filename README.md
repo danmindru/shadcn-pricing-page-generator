@@ -8,12 +8,25 @@ Pricing Page Generator
 #### Pricing Page Generator.
 The easiest way to get the code for a React/Next.js pricing page. Pick between a Shadcn pricing page Radix UI and/or Tailwind CSS.
 
-Want to run this yourself locally? Check out the docs.
+> Looking for code samples? Check out [the demos here](https://github.com/danmindru/shadcn-pricing-page-generator/tree/main/components/pricing).
+
+> It's easy to generate code for your own pricing page with [the pricing page generator web app](https://shipixen.com/shadcn-pricing-page-generator).
+
+
+##### Here's what you get with the pricing page generator
+- 🎯 Choose between 1, 2 or 3 pricing tier designs
+- 📅 Customize frequencies and easily set prices for each
+- 🎁 Add discounted prices or discount text
+- 💅 Highlight or feature tiers to make the best ones stand out
+- 📄 Easily list features per tier & highlight advantages
+- 🎨 Use over 30+ themes to make the pricing page yours
+- 👩‍💻 Get the code with 1 click... and you're good to go!
+
+##### Want to run this yourself locally? Check out the docs.
 - [Installation](#installation)
 - [Development](#development)
 - [Build](#build)
 
-> Looking for code samples? Check out [the demos here.](https://github.com/danmindru/shadcn-pricing-page-generator/tree/main/components/pricing). It's easy to generate code for your own pricing page with [the pricing page generator web app](https://shipixen.com/shadcn-pricing-page-generator).
 
 
 <hr/>
@@ -57,6 +70,20 @@ To build the site for production, run the following command:
 ```bash
 npm run build
 ```
+
+## FAQ
+
+What code export types does the tool support?
+> Shadcn UI, Radix UI, React + TailwindCSS & Shipixen code exports are currently supported. More to come soon.
+
+Is this tool free to use or do I need attribution?
+> This tool is completely free to use and you can use the code as you'd like.
+
+Do I need to use Shadcn UI to use the pricing page generator?
+> No, you can also get the code for plain TailwindCSS applications with no dependencies.
+
+Are there any examples available?
+> Yes, we have a number of generated pricing pages in this repo. [See the demos here](https://github.com/danmindru/shadcn-pricing-page-generator/tree/main/components/pricing)
 
 ------
 
