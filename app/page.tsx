@@ -16,8 +16,9 @@ export default function Home() {
             Pricing Page Generator
           </h1>
           <p className="mt-6 md:text-xl md:max-w-3xl">
-            The easiest way to get the code for a React/Next.js pricing page.
-            Pick between a Shadcn pricing page Radix UI and/or Tailwind CSS.
+            The easiest way to get the code for a React/Next.js/Vue pricing
+            page. Pick between a Shadcn pricing page Radix UI and/or Tailwind
+            CSS.
           </p>
 
           <span className="flex flex-wrap gap-4 mt-6">
